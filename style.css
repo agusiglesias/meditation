@@ -27,6 +27,7 @@
   flex-direction: column;
   flex: 1;
 }*/
+
 .time-select button,
 .sound-picker button {
     color: white;
@@ -105,3 +106,4 @@ video {
     z-index: -10;
 }
 
+@media
